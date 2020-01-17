@@ -11,11 +11,11 @@ The first meetup did not have any C++ presentations, everybody introduced themse
 # Notes from the first meetup
 
 * slack channel https://cpplang.now.sh/ #ug-nl-eindhoven, if you have trouble signin in, let know me on twitter @janwilmans
-* 
 
 # Topics of interest
 
 * exercism https://exercism.io/ , see this cppcast episode https://cppcast.com/richard-thomson/
+* mentors https://codingcoach.io/
 * machine learning, shogun on github, see https://github.com/shogun-toolbox/shogun
 * blocking chain, polkadot, see https://polkadot.network/
 * p2p c++ library, libp2p, see https://github.com/libp2p/libp2p
@@ -33,3 +33,4 @@ The first meetup did not have any C++ presentations, everybody introduced themse
 * hunter stopped
 * vspkg, make shallow copy
 * nuget zip from vspkg
+
